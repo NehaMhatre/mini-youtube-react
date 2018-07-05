@@ -1,0 +1,9 @@
+jsx
+components,
+states
+classes
+import/export statements
+
+App starts from index.js
+
+Downwards data flow - starts with most parent components. Should be responsible for fetching data.
